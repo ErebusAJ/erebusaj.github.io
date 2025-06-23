@@ -1,21 +1,7 @@
-Date: Mon, 23 Jun 2025 09:57:15 +0000
-MD5Sum:
- f014b5ec9049b853c198d1f159bb049b               38 Release
- 4a4dd3598707603b3f76a2378a4504aa               20 main/binary-amd64/Packages.gz
- 4a4dd3598707603b3f76a2378a4504aa               20 main/binary-arm64/Packages.gz
- 4a4dd3598707603b3f76a2378a4504aa               20 main/binary-i386/Packages.gz
-SHA1:
- 0450a2111099ecda89fc7def1d1942d1bd21144b               38 Release
- a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/binary-amd64/Packages.gz
- a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/binary-arm64/Packages.gz
- a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/binary-i386/Packages.gz
-SHA256:
- 01ca5cd201ff5adb8aaf53398ac5e3ce87da4072585d5b65c3e25fe8d5377744               38 Release
- f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/binary-amd64/Packages.gz
- f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/binary-arm64/Packages.gz
- f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/binary-i386/Packages.gz
-SHA512:
- 290e1f2526ebe4218db640350ef5f042ef32bb8c475186e12ca05928a0c480a90e3e64596104614167601ff0a9da52c435696172e3c555fca3d0a4e577acc7d1               38 Release
- 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 main/binary-amd64/Packages.gz
- 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 main/binary-arm64/Packages.gz
- 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 main/binary-i386/Packages.gz
+Origin: gocrafter
+Label: gocrafter
+Suite: stable
+Codename: stable
+Architectures: amd64 i386
+Components: main
+Description: APT repository for gocrafter CLI tool
