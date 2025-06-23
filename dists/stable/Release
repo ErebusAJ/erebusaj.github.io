@@ -1,0 +1,7 @@
+Origin: Gocrafter
+Label: Gocrafter CLI
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64 i386
+Components: main
+Description: A CLI tool for scaffolding Go projects

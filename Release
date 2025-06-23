@@ -1,0 +1,25 @@
+Date: Mon, 23 Jun 2025 09:39:35 +0000
+MD5Sum:
+ d77eaf958012862b3e903bc0f0b1350e               38 Release
+ 01d2b7361d6ab5be98f1b887323092f4              171 dists/stable/Release
+ 4a4dd3598707603b3f76a2378a4504aa               20 dists/stable/main/binary-amd64/Packages.gz
+ 4a4dd3598707603b3f76a2378a4504aa               20 dists/stable/main/binary-arm64/Packages.gz
+ 4a4dd3598707603b3f76a2378a4504aa               20 dists/stable/main/binary-i386/Packages.gz
+SHA1:
+ d9fdaecf36a18c3da02121983a8e2ed9799d41bc               38 Release
+ 3eaefeadbf885192055f6d08d57917cd849dcfff              171 dists/stable/Release
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 dists/stable/main/binary-amd64/Packages.gz
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 dists/stable/main/binary-arm64/Packages.gz
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 dists/stable/main/binary-i386/Packages.gz
+SHA256:
+ 98a77b0870ad4bc8cc58d3342c420caf4e5169b0fa6e853aba780e9d31440a61               38 Release
+ 0a35f4e769d710a4111ab7e78c50535d73de96f3915c00448d5edf65e1425220              171 dists/stable/Release
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 dists/stable/main/binary-amd64/Packages.gz
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 dists/stable/main/binary-arm64/Packages.gz
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 dists/stable/main/binary-i386/Packages.gz
+SHA512:
+ abd9321a320718fbb3aabbdaaab31a21b24844be8b691da5e2b02780ba095544e81a1c52656f7ed5dd67b9eeedb0e6d0bce9193c512e1dd7e594d62b6eafc918               38 Release
+ eb6adb7e22a8ad9b79f991fbfd4ae9f300bb5b74f325d81a1db35232f5b0b32608e14ad6dc211de00f1a8dcf8481f00093210d53b7756b93532e3de2a1c5961e              171 dists/stable/Release
+ 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 dists/stable/main/binary-amd64/Packages.gz
+ 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 dists/stable/main/binary-arm64/Packages.gz
+ 1b46b9b08d5b338be9d732a1724795b2eab63daffde377218727c90857b79fe6a47bceed495117fcde60f7339812ef75ef4c69f82dd79fb69b6cbf8006b521f2               20 dists/stable/main/binary-i386/Packages.gz
